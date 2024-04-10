@@ -1,4 +1,5 @@
 ![anyft-logo-300x267](https://github.com/AnyFT-AI-NFT/Public_Files/assets/89907172/09d45fe9-0b13-487e-be38-179fcfdaa87b)
+
 Any-FT
 AI Generated Art NFT
 
