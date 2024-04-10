@@ -1,7 +1,6 @@
-Any-FT
-AI Generated Art NFT
-![image-8](https://github.com/AnyFT-AI-NFT/Public_Files/assets/89907172/cb61fe3c-7457-435c-bb98-881f9212e063)
+![anyft-logo-300x267](https://github.com/AnyFT-AI-NFT/Public_Files/assets/89907172/48287f47-bedf-452d-b06f-2074f353b03c)
 
+AI Generated Art NFT
 Any-FT
 Roadmap
 
